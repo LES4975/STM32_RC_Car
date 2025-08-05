@@ -1,1 +1,7 @@
 /Debug/
+.cproject
+.mxproject
+.project
+Project_car.launch
+STM32F411RETX_FLASH.ld
+STM32F411RETX_RAM.ld
